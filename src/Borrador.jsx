@@ -5,7 +5,8 @@ function Borrador() {
       <div className="text-center mb-10">
         <h1 className="text-4xl font-bold mb-2">SYNTAX SOLUTIONS</h1>
         <p className="text-sm text-gray-400">
-          Juan Gómez – Simón Bedoya – Cristian Vélez – Kevin Jiménez – Thomas
+          Juan Gómez – Simón Bedoya – Cristian Vélez – Kevin Jiménez – Tomas
+          Montoya
         </p>
         <p className="text-sm text-gray-400">
           Tecnología en desarrollo de software
