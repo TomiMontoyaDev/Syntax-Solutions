@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(270deg, #212121, #2c2f55);
+  background-size: 800% 800%;
+  animation: moverFondo 5s ease infinite;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes moverFondo {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
